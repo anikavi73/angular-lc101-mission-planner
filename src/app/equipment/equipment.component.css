@@ -16,3 +16,7 @@ h3 {
 
 
 /* Add the 'nearMaxMass' class style here: */
+.nearMaxMass{
+    color: red;
+    font-weight: bold;
+}
